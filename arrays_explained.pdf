@@ -1,0 +1,162 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+4 0 obj
+<< /Length 2319 >>
+stream
+0.080 0.160 0.280 rg
+0 744 612 48 re f
+1.000 1.000 1.000 rg
+BT /F2 10 Tf 1 0 0 1 42 763 Tm (ARRAYS: A SIMPLE GUIDE) Tj ET
+1.000 1.000 1.000 rg
+BT /F1 10 Tf 1 0 0 1 550 763 Tm (1) Tj ET
+0.820 0.860 0.900 rg
+42 38 528 1 re f
+0.360 0.410 0.470 rg
+BT /F1 8 Tf 1 0 0 1 42 22 Tm (Introduction to arrays | C++ example included) Tj ET
+0.080 0.160 0.280 rg
+BT /F2 27 Tf 1 0 0 1 42 706 Tm (What is an array?) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 12 Tf 1 0 0 1 42 679 Tm (An array is an ordered collection of values stored under one name. Each value is) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 12 Tf 1 0 0 1 42 661 Tm (called an element, and its position is identified by an index.) Tj ET
+0.080 0.160 0.280 rg
+BT /F2 13 Tf 1 0 0 1 42 640 Tm (A small C++ example) Tj ET
+0.930 0.960 0.990 rg
+42 555 528 68 re f
+0.080 0.160 0.280 rg
+BT /F3 11 Tf 1 0 0 1 56 598 Tm (int scores[5] = {88, 94, 76, 100, 91};) Tj ET
+0.160 0.200 0.250 rg
+BT /F3 10 Tf 1 0 0 1 56 577 Tm (scores[0] is 88; scores[4] is 91. Indexing starts at 0.) Tj ET
+0.120 0.380 0.680 rg
+BT /F2 15 Tf 1 0 0 1 42 526 Tm (Why are arrays needed?) Tj ET
+0.080 0.160 0.280 rg
+BT /F2 11 Tf 1 0 0 1 48 502 Tm (- Keep related data together:) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 67 485 Tm (One collection is easier to manage than many separate variables.) Tj ET
+0.080 0.160 0.280 rg
+BT /F2 11 Tf 1 0 0 1 48 464 Tm (- Use loops:) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 67 447 Tm (A loop can process every element for totals, searches, or reports.) Tj ET
+0.080 0.160 0.280 rg
+BT /F2 11 Tf 1 0 0 1 48 426 Tm (- Access by position:) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 67 409 Tm (An index gives direct access to an element when its position is known.) Tj ET
+0.120 0.380 0.680 rg
+BT /F2 15 Tf 1 0 0 1 42 388 Tm (A couple of things to remember) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 42 365 Tm (Indexes start at 0, so an array of 5 elements has positions 0 through 4. Using a) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 42 350 Tm (position outside that range is an error to avoid.) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 42 331 Tm (A built-in array or C++ std::array has a fixed size. Use std::vector when the number of) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 42 316 Tm (items needs to grow or shrink while the program runs.) Tj ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 8 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 3174 >>
+stream
+0.080 0.160 0.280 rg
+0 744 612 48 re f
+1.000 1.000 1.000 rg
+BT /F2 10 Tf 1 0 0 1 42 763 Tm (ARRAYS: A SIMPLE GUIDE) Tj ET
+1.000 1.000 1.000 rg
+BT /F1 10 Tf 1 0 0 1 550 763 Tm (2) Tj ET
+0.820 0.860 0.900 rg
+42 38 528 1 re f
+0.360 0.410 0.470 rg
+BT /F1 8 Tf 1 0 0 1 42 22 Tm (Introduction to arrays | C++ example included) Tj ET
+0.080 0.160 0.280 rg
+BT /F2 25 Tf 1 0 0 1 42 706 Tm (Arrays in everyday software) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 12 Tf 1 0 0 1 42 679 Tm (Arrays are useful whenever software needs an ordered group of similar values. Examples) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 12 Tf 1 0 0 1 42 661 Tm (include:) Tj ET
+0.120 0.380 0.680 rg
+BT /F2 12 Tf 1 0 0 1 48 643 Tm (Weather apps) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 48 625 Tm (Keep a day's hourly temperatures together to calculate a daily high or average.) Tj ET
+0.120 0.380 0.680 rg
+BT /F2 12 Tf 1 0 0 1 48 603 Tm (Music players) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 48 585 Tm (Store an ordered playlist so tracks can be shown and played one after another.) Tj ET
+0.120 0.380 0.680 rg
+BT /F2 12 Tf 1 0 0 1 48 563 Tm (Games) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 48 545 Tm (Keep player scores together to sort or display a leaderboard.) Tj ET
+0.120 0.380 0.680 rg
+BT /F2 12 Tf 1 0 0 1 48 523 Tm (Photo software) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 48 505 Tm (Represent image pixels as rows and columns of color values.) Tj ET
+0.120 0.380 0.680 rg
+BT /F2 12 Tf 1 0 0 1 48 483 Tm (Shop inventory) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 48 465 Tm (Keep product records together to search products and total their stock value.) Tj ET
+0.120 0.380 0.680 rg
+BT /F2 15 Tf 1 0 0 1 42 443 Tm (Project: Array Inventory Tracker) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 42 420 Tm (The companion C++ console app models a small shop. It stores up to 20 products in) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 42 405 Tm (std::array<Product, 20>. Each array element is a Product record with a name, quantity,) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 42 390 Tm (and unit price.) Tj ET
+0.930 0.960 0.990 rg
+42 256 528 102 re f
+0.080 0.160 0.280 rg
+BT /F3 9 Tf 1 0 0 1 56 337 Tm (1. Add: put a new product into the next unused array position.) Tj ET
+0.080 0.160 0.280 rg
+BT /F3 9 Tf 1 0 0 1 56 318 Tm (2. List: loop through stored products and display their details.) Tj ET
+0.080 0.160 0.280 rg
+BT /F3 9 Tf 1 0 0 1 56 299 Tm (3. Find or update: compare product names while looping over the array.) Tj ET
+0.080 0.160 0.280 rg
+BT /F3 9 Tf 1 0 0 1 56 280 Tm (4. Total: multiply each quantity by its price and add the results.) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 42 231 Tm (A count records how many of the 20 positions are in use. Before adding, the app checks) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 42 216 Tm (that there is room; its loops only visit used positions. Real shops need flexible) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 42 201 Tm (storage and reliable saving, so production software commonly uses resizable) Tj ET
+0.160 0.200 0.250 rg
+BT /F1 10 Tf 1 0 0 1 42 186 Tm (collections and databases instead.) Tj ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 8 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+9 0 obj
+<< /Type /Catalog /Pages 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000000160 00000 n 
+0000000228 00000 n 
+0000002599 00000 n 
+0000002745 00000 n 
+0000005971 00000 n 
+0000006117 00000 n 
+0000006180 00000 n 
+trailer
+<< /Size 10 /Root 9 0 R >>
+startxref
+6229
+%%EOF
